@@ -23,7 +23,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url(https://sneakers-magazine.com/wp-content/uploads/2018/07/off-white-x-nike-the-ten-collection-grailed-mood.jpg);
+  background-image: url("header.jpg");
   background-size: cover;
   height: 100%;
 }
